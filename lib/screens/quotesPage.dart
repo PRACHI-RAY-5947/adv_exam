@@ -28,7 +28,6 @@ class QuotePage extends StatelessWidget {
           final category = categories[index];
           return GestureDetector(
             onTap: () {
-              // Navigate to a specific category's quote page
             },
             child: Card(
               child: Column(
